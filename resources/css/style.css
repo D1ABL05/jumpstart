@@ -8,7 +8,20 @@ body {
   font-family: 'Monoton', cursive;
 }
 
+/* Navigation bar */
+nav a {
+  font-family: 'Open sans';
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+
 /* Jumbotron */
-.background-bike {
+.jumbotron {
+  text-align: center;
+}
+
+.jumbotron-bike {
   background-image: url("../images/jumbotron-bike.jpg");
+  width: 100%;
+  height: 500px;
 }
