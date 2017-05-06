@@ -3,5 +3,10 @@ html {
 }
 
 body {
-  
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Monoton', cursive;
+}
+
+nav {
+  position: fixed;
 }
