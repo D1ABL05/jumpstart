@@ -3,10 +3,12 @@ html {
 }
 
 body {
+  font-size: 14px;
   font-family: 'Open Sans', sans-serif;
   font-family: 'Monoton', cursive;
 }
 
-nav {
-  position: fixed;
+/* Jumbotron */
+.background-bike {
+  background-image: url("../images/jumbotron-bike.jpg");
 }
